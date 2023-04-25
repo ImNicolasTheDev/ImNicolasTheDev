@@ -1,4 +1,4 @@
-### Hello there! I'm Nicolas 👋
+<h2 align="center"> Hello there! I'm Nicolas 👋</h2>
 
 <!--
 **ImNicolasTheDev/ImNicolasTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
