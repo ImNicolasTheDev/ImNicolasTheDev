@@ -1,5 +1,8 @@
-<h2 align="center"> Hello there! I'm Nicolas 👋</h2>
-
+<div align="center">
+<h3>Hey, I'm Nicolas👋</h3><br/> <!--I know, applying style directly in html is a crime-->
+<p align="center">I'm a CS student (Computer Science), passionnate about development, computers, and skill sharing!<br/>
+Take a look at all my projects, and feel free to contribute 🤍</p>
+<br/>
 <!--
 **ImNicolasTheDev/ImNicolasTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- This line above is generating the nice looking stats :) -->
 ![My stats](https://github-readme-stats.vercel.app/api?username=ImNicolasTheDev&theme=calm&show_icons=true)
+</div>
+
+*Oh, and check out my [PortFolio!](http://ImNicolasTheDev.github.io)* ✨
