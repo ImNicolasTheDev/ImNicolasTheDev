@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- This line above is generating the nice looking stats :) -->
-![My stats](https://github-readme-stats.vercel.app/api?username=ImNicolasTheDev&theme=calm&show_icons=true)
+![My stats](https://readme-stats-liart.vercel.app//api?username=ImNicolasTheDev&theme=calm&show_icons=true)
 </div>
 
 *Oh, and check out my [PortFolio!](http://ImNicolasTheDev.github.io)* ✨
